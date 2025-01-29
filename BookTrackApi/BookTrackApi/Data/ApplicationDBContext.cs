@@ -1,6 +1,6 @@
 ﻿using BookTrackApi.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace BookTrackApi.Data
 {

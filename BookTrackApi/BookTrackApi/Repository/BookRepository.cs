@@ -20,7 +20,7 @@ namespace BookTrackApi.Repository
 
         public Task<List<Book>> GetAllAsync()
         {
-            return _context.books.ToListAsync();
+            return _context.Books.ToListAsync();
         }
         
     }
