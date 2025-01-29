@@ -18,7 +18,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -40,13 +40,24 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.1, )"
@@ -83,6 +94,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.100-rc.2.24474.11, 9.0.100-rc.2.24474.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

@@ -1,7 +1,10 @@
 
 using BookTrackApi.Data;
 using BookTrackApi.Interface;
+using BookTrackApi.Models;
 using BookTrackApi.Repository;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookTrackApi
@@ -11,7 +14,33 @@ namespace BookTrackApi
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            
+
+            // Add Identity
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+                .AddEntityFrameworkStores<ApplicationDBContext>()
+                .AddDefaultTokenProviders();
+
+            // Configure JWT Authentication
+            builder.Services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            })
+            .AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true,
+                    ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                    ValidAudience = builder.Configuration["Jwt:Audience"],
+                    IssuerSigningKey = new SymmetricSecurityKey(
+                        Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+                };
+            });
+
 
             // Add services to the container.
 

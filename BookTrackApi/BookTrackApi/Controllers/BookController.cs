@@ -17,7 +17,7 @@ namespace BookTrackApi.Controllers
         public async Task<IActionResult> GetAll()
         {
             var books = await _bookRepository.GetAllAsync();
-            var BookDto = books.Select(s => s.BookToDto()).ToList();
+            var BookDto = books.Select(s => s.Cre()).ToList();
 
             return Ok(BookDto);
         }
