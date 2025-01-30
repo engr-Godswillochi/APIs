@@ -22,11 +22,20 @@ namespace BookTrackApi.Controllers
             _context = context;
         }
         [Authorize]
-        [HttpGet("my-books")]
-        public async Task<IActionResult> GetMyBooks()
+        [HttpGet]
+        public async Task<IActionResult> GetAllBooks(
+        [FromQuery] string searchTerm = "",
+        [FromQuery] string genre = "")
         {
-            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-            var books = await _context.Books.ToListAsync();
+            var query = _context.Books.AsQueryable();
+
+            if (!string.IsNullOrEmpty(searchTerm))
+                query = query.Where(b => b.Title.Contains(searchTerm) || b.Author.Contains(searchTerm));
+
+            if (!string.IsNullOrEmpty(genre))
+                query = query.Where(b => b.Genre == genre);
+
+            var books = await query.ToListAsync();
             return Ok(books);
         }
     }
