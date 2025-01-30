@@ -1,32 +1,35 @@
 ﻿using BookTrackApi.DTOs.Book;
+using BookTrackApi.Models;
 using System.Runtime.CompilerServices;
 
 namespace BookTrackApi.Mappers
 {
     public static class BookMapper
     {
-        public static BookDto BookToDto(this BookDto bookDto)
+        public static BookDto ToBookDto(this Book book)
         {
             return new BookDto
             {
-                Id = bookDto.Id,
-                Title = bookDto.Title,
-                Author = bookDto.Author,
-                Year = bookDto.Year,
-                Genre = bookDto.Genre,
-                Description = bookDto.Description
+                Id = book.Id,
+                Title = book.Title,
+                Author = book.Author,
+                Year = book.Year,
+                Genre = book.Genre,
+                Description = book.Description
             };
         }
-        public static CreateBookDto ToBookFromCreate (this CreateBookDto bookDto)
+        public static Book ToBookFromCreate(this CreateBookDto bookDto)
         {
-            return new CreateBookDto
+            return new Book
             {
                 Title = bookDto.Title,
                 Author = bookDto.Author,
                 Year = bookDto.Year,
                 Genre = bookDto.Genre,
-                Description = bookDto.Description
+                Description = bookDto.Description,
+                DateAdded = DateTime.UtcNow
             };
-        }
+
+        };
     }
 }

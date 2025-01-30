@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
 using BookTrackApi.Data;
 using System.Data.Entity;
+using BookTrackApi.Models;
+using BookTrackApi.DTOs.Book;
 namespace BookTrackApi.Controllers
 {
     [ApiController]
@@ -37,6 +39,25 @@ namespace BookTrackApi.Controllers
 
             var books = await query.ToListAsync();
             return Ok(books);
+        }
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetBookById(int id)
+        {
+            var book = await _context.Books // Include reviews if needed
+                .FirstOrDefaultAsync(b => b.Id == id);
+
+            if (book == null)
+                return NotFound();
+
+            return Ok(book);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddBook([FromBody] CreateBookDto book)
+        {
+            _context.Books.Add(book);
+            await _context.SaveChangesAsync();
+            return CreatedAtAction(nameof(GetBookById), new { id = book.Id }, book);
         }
     }
 }
