@@ -7,72 +7,68 @@
       "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\booktrackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\booktrackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\models\\readingprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\models\\readingprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\dtos\\book\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\dtos\\book\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\mappers\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\mappers\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\dtos\\book\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\dtos\\book\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\dtos\\book\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\dtos\\book\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\dtos\\book\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\dtos\\book\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\booktrackapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\booktrackapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\booktrackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\booktrackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|c:\\users\\hp\\documents\\devs\\apis\\booktrackapi\\booktrackapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D242F9-40F5-4E26-BDD2-06E092A8B391}|BookTrackApi\\BookTrackApi.csproj|solutionrelative:booktrackapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEB6B176-812B-43BD-A227-FEFB70F99FFA}|Solution Items{DEB6B176-812B-43BD-A227-FEFB70F99FFA}|C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -86,141 +82,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BookTrackApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BookTrackApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-28T22:11:06.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BookTrackApi\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\appsettings.Development.json",
-              "RelativeToolTip": "BookTrackApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-28T22:09:53.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookTrackApi.http",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\BookTrackApi.http",
-              "RelativeDocumentMoniker": "BookTrackApi\\BookTrackApi.http",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\BookTrackApi.http",
-              "RelativeToolTip": "BookTrackApi\\BookTrackApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-28T22:09:22.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "BookTrackApi\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:24:59.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\appsettings.json",
-              "RelativeDocumentMoniker": "BookTrackApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\appsettings.json",
-              "RelativeToolTip": "BookTrackApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-28T16:12:11.345Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Program.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Program.cs",
-              "RelativeToolTip": "BookTrackApi\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:52:03.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\Review.cs",
-              "RelativeToolTip": "BookTrackApi\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T20:54:33.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "BookTrackApi\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T20:52:34.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "BookTrackApi\\Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Controllers\\BookController.cs",
               "RelativeToolTip": "BookTrackApi\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T16:39:04.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\DTOs\\Book\\CreateBookDto.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\DTOs\\Book\\CreateBookDto.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\DTOs\\Book\\CreateBookDto.cs",
-              "RelativeToolTip": "BookTrackApi\\DTOs\\Book\\CreateBookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T14:49:52.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "BookDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\DTOs\\Book\\BookDto.cs",
               "RelativeDocumentMoniker": "BookTrackApi\\DTOs\\Book\\BookDto.cs",
@@ -233,7 +116,150 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookMapper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Mappers\\BookMapper.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Mappers\\BookMapper.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Mappers\\BookMapper.cs",
+              "RelativeToolTip": "BookTrackApi\\Mappers\\BookMapper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvyAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:47:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\DTOs\\Book\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\DTOs\\Book\\CreateBookDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\DTOs\\Book\\CreateBookDto.cs",
+              "RelativeToolTip": "BookTrackApi\\DTOs\\Book\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:49:52.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\Book.cs",
+              "RelativeToolTip": "BookTrackApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:17:40.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BookTrackApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\appsettings.json",
+              "RelativeToolTip": "BookTrackApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T01:08:34.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadingProgress.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\ReadingProgress.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Models\\ReadingProgress.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\ReadingProgress.cs",
+              "RelativeToolTip": "BookTrackApi\\Models\\ReadingProgress.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:49:00.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Interface\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Interface\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Interface\\IBookRepository.cs",
+              "RelativeToolTip": "BookTrackApi\\Interface\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:16:06.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookTrackApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T01:26:38.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "BookTrackApi\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:24:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookTrackApi",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\BookTrackApi.csproj",
+              "RelativeDocumentMoniker": "BookTrackApi\\BookTrackApi.csproj",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\BookTrackApi.csproj",
+              "RelativeToolTip": "BookTrackApi\\BookTrackApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T00:54:24.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Program.cs",
+              "RelativeToolTip": "BookTrackApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:52:03.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "BookTrackApi\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:16:24.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Collection.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\Collection.cs",
               "RelativeDocumentMoniker": "BookTrackApi\\Models\\Collection.cs",
@@ -246,89 +272,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReadingProgress.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\ReadingProgress.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Models\\ReadingProgress.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\ReadingProgress.cs",
-              "RelativeToolTip": "BookTrackApi\\Models\\ReadingProgress.cs",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "BookTrackApi\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:52:34.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "BookTrackApi\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\Review.cs",
+              "RelativeToolTip": "BookTrackApi\\Models\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:49:00.043Z",
+              "WhenOpened": "2025-01-28T20:54:33.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Repository\\BookRepository.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Repository\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Repository\\BookRepository.cs",
-              "RelativeToolTip": "BookTrackApi\\Repository\\BookRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:16:24.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookMapper.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Mappers\\BookMapper.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Mappers\\BookMapper.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Mappers\\BookMapper.cs",
-              "RelativeToolTip": "BookTrackApi\\Mappers\\BookMapper.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T14:47:10.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Interface\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Interface\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Interface\\IBookRepository.cs",
-              "RelativeToolTip": "BookTrackApi\\Interface\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:16:06.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Models\\Book.cs",
-              "RelativeToolTip": "BookTrackApi\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:17:40.032Z",
+              "Title": "BookTrackApi.http",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\BookTrackApi.http",
+              "RelativeDocumentMoniker": "BookTrackApi\\BookTrackApi.http",
+              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\BookTrackApi.http",
+              "RelativeToolTip": "BookTrackApi\\BookTrackApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-28T22:09:22.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "BookTrackApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\BookTrackApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "BookTrackApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:15:02.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\devs\\APIs\\BookTrackApi\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",

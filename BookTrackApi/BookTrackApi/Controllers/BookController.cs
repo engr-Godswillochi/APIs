@@ -23,7 +23,7 @@ namespace BookTrackApi.Controllers
         {
             _context = context;
         }
-        [Authorize]
+        //[Authorize]
         [HttpGet]
         public async Task<IActionResult> GetAllBooks(
         [FromQuery] string searchTerm = "",
@@ -53,11 +53,21 @@ namespace BookTrackApi.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddBook([FromBody] CreateBookDto book)
+        public async Task<IActionResult> AddBook([FromBody] CreateBookDto createBookDto)
         {
+            var book = createBookDto.ToBookFromCreate();
+
             _context.Books.Add(book);
             await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(GetBookById), new { id = book.Id }, book);
+
+            return CreatedAtAction(
+                nameof(GetBookById),
+                new
+                {
+                    id = book.Id,
+                },
+                    book.ToBookDto()
+                );
         }
     }
 }

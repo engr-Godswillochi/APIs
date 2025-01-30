@@ -18,7 +18,7 @@ namespace BookTrackApi.Mappers
                 Description = book.Description
             };
         }
-        public static Book ToBookFromCreate(this CreateBookDto bookDto)
+        public static Book ToBookFromCreate (this CreateBookDto bookDto)
         {
             return new Book
             {
@@ -30,6 +30,6 @@ namespace BookTrackApi.Mappers
                 DateAdded = DateTime.UtcNow
             };
 
-        };
+        }
     }
 }
