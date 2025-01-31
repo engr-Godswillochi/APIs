@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BookTrackApi.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20250130133133_Test")]
-    partial class Test
+    [Migration("20250130160811_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -137,10 +137,6 @@ namespace BookTrackApi.Migrations
 
                     b.Property<int>("Year")
                         .HasColumnType("int");
-
-                    b.PrimitiveCollection<string>("readingStatuses")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
@@ -403,7 +399,7 @@ namespace BookTrackApi.Migrations
             modelBuilder.Entity("BookTrackApi.Models.ReadingProgress", b =>
                 {
                     b.HasOne("BookTrackApi.Models.Book", "Book")
-                        .WithMany()
+                        .WithMany("readingStatuses")
                         .HasForeignKey("BookId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -501,6 +497,8 @@ namespace BookTrackApi.Migrations
             modelBuilder.Entity("BookTrackApi.Models.Book", b =>
                 {
                     b.Navigation("Review");
+
+                    b.Navigation("readingStatuses");
                 });
 #pragma warning restore 612, 618
         }

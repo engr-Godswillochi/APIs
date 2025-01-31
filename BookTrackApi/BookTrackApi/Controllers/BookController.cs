@@ -4,7 +4,7 @@ using BookTrackApi.Mappers;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
 using BookTrackApi.Data;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 using BookTrackApi.Models;
 using BookTrackApi.DTOs.Book;
 namespace BookTrackApi.Controllers
@@ -43,8 +43,7 @@ namespace BookTrackApi.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetBookById(int id)
         {
-            var book = await _context.Books // Include reviews if needed
-                .FirstOrDefaultAsync(b => b.Id == id);
+            var book = await _context.Books.FindAsync(id);
 
             if (book == null)
                 return NotFound();
@@ -68,6 +67,17 @@ namespace BookTrackApi.Controllers
                 },
                     book.ToBookDto()
                 );
+        }
+        [HttpDelete]
+        public async Task<IActionResult> RemoveBook([FromQuery] int Id)
+        {
+            var book = _context.Books.FirstOrDefault(b => b.Id == Id);
+            if (book == null)
+                return NotFound();
+
+            _context.Books.Remove(book);
+            await _context.SaveChangesAsync();
+            return NoContent(); 
         }
     }
 }
