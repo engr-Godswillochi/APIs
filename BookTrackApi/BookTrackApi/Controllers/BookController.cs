@@ -13,11 +13,11 @@ namespace BookTrackApi.Controllers
     [Route("api/book")]
     public class BookController : ControllerBase
     {
-        //private readonly IBookRepository _bookRepository;
-        //public BookController(IBookRepository bookRepository)
-        //{
-        //    _bookRepository = bookRepository;
-        //}
+        private readonly IBookRepository _bookRepository;
+        public BookController(IBookRepository bookRepository)
+        {
+            _bookRepository = bookRepository;
+        }
         private readonly ApplicationDBContext _context;
         public BookController(ApplicationDBContext context)
         {
