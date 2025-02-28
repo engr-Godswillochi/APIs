@@ -16,14 +16,8 @@ namespace BookTrackApi.Models
         public DateTime DateAdded { get; set; }
         public ICollection<Review>? Review { get; set; } 
         public ICollection<Collection>? Collections { get; set; }
-        public ICollection<ReadingProgress>? readingStatuses { get; set; }
+        public ICollection<ReadingProgress>? readingProgress { get; set; }
         
     }
 
-    public enum ReadingStatus
-    {
-        ToRead,
-        Reading,
-        Completed
-    }
 }

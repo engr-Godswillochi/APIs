@@ -21,7 +21,7 @@ public class ReviewsController : ControllerBase
 
     // POST: api/books/5/reviews (for both reviews and comments)
     [HttpPost]
-    //[Authorize]
+     
     public async Task<ActionResult<Review>> CreateReviewOrComment(
         int bookId,
         [FromBody] ReviewRequest request

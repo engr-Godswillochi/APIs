@@ -12,4 +12,12 @@
 
         public Book Book { get; set; }
     }
+
+    
+    public enum ReadingStatus
+    {
+        ToRead,
+        Reading,
+        Completed
+    }
 }

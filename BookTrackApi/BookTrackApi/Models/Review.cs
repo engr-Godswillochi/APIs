@@ -1,4 +1,4 @@
-﻿// Models/Review.cs
+﻿
 using System.ComponentModel.DataAnnotations;
 
 namespace BookTrackApi.Models
@@ -13,7 +13,7 @@ namespace BookTrackApi.Models
     {
         public int Id { get; set; }
         public int BookId { get; set; }
-        public string UserId { get; set; }
+        public string? UserId { get; set; }
         public ApplicationUser User { get; set; }
 
         [Range(0, 5)]
