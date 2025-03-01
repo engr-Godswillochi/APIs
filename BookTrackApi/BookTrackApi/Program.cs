@@ -56,7 +56,7 @@ namespace BookTrackApi
             });
 
             builder.Services.AddScoped<IBookRepository, BookRepository>();
-
+            builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
