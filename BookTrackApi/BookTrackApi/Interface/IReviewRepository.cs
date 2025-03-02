@@ -7,6 +7,6 @@ namespace BookTrackApi.Interface
 {
     public interface IReviewRepository
     {
-        
+        public Task GetAll();
     }
 }
